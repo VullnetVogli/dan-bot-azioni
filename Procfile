@@ -1,1 +1,1 @@
-worker: python 1.py
+worker: python tracking-stock-v1.py
